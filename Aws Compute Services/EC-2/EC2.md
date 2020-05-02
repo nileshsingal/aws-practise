@@ -44,15 +44,22 @@ It provides you with complete control of your computing resources and lets you r
  ![](images/login6.PNG)
  
  ## 6. *Now Launch Instance*
+ From the Amazon EC2 dashboard, choose Launch Instance.
+ 
  
  ![](images/login7.PNG)
  
  ## 7. Step 1: Choose an Amazon Machine Image (AMI)
+ The Choose an Amazon Machine Image (AMI) page displays a list of basic configurations called Amazon Machine Images (AMIs) that serve as templates for your instance. Select the HVM edition of the Amazon Linux AMI. Notice that this configuration is marked Free tier eligible. 
  
  You can search for required **Operating System**, In This Demo we will create instance of Linux
  select the first option **Amazon Linux 2 AMI (HVM), SSD Volume Type**
+ If You are creating windows Instance ,**Volume Should be >= 50 GB**
+ you will be charged per hour for windows you also have to pay for licence(**per hr**)(**pay as you use**)
+ 
  
  ![](images/login8.PNG)
+ 
  
 
 
