@@ -6,7 +6,7 @@ The term is generally used to describe data centers available to many users over
 Large clouds, predominant today, often have functions distributed over multiple locations from central servers. 
 If the connection to the user is relatively close, it may be designated an edge server. 
 
-##What is AWS?
+## What is AWS?
 Amazon web service is a platform that offers flexible, reliable, scalable, easy-to-use and cost-effective cloud computing solutions. 
 
 AWS is a comprehensive, easy to use computing platform offered Amazon. The platform is developed with a combination of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings. 
@@ -24,3 +24,5 @@ AWS is a comprehensive, easy to use computing platform offered Amazon. The platf
 Amazon Web Services offers a wide range of different business purpose global cloud-based products. 
 The products include storage, databases, analytics, networking, mobile, development tools, enterprise applications, 
 with a **pay-as-you-go** pricing model. 
+
+![](images/aws.png)
