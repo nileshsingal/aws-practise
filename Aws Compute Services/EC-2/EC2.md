@@ -22,4 +22,41 @@ It provides you with complete control of your computing resources and lets you r
  
  ## How to Create EC2 Instance in AWS: Step by Step Tutorial 
  
- ## Login and access to AWS services 
+ ## 1. *Login and access to AWS services*
+ 
+ ![](images/login.PNG)
+ 
+ ## 2. *After sucessfull login go to your classroom*
+ 
+ ![](images/login3.PNG)
+ 
+ ## 3. *Then Go to AWS CONSOLE*
+ 
+ ![](images/login4.PNG)
+ 
+ 
+ ## 4. *Go To Services* 
+ 
+ ![](images/login5.PNG)
+ 
+ ## 5. *Select First Option EC2*
+ 
+ ![](images/login6.PNG)
+ 
+ ## 6. *Now Launch Instance*
+ 
+ ![](images/login7.PNG)
+ 
+ ## 7. Step 1: Choose an Amazon Machine Image (AMI)
+ 
+ You can search for required **Operating System**, In This Demo we will create instance of Linux
+ select the first option **Amazon Linux 2 AMI (HVM), SSD Volume Type**
+ 
+ ![](images/login8.PNG)
+ 
+
+
+ 
+
+ 
+ 
