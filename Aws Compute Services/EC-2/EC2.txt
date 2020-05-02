@@ -1,3 +1,0 @@
-EC2(Elastic Compute Cloud)
- - EC2 is a virtual machine in the cloud on which you have OS level control. 
-You can run this cloud server whenever you want. 
