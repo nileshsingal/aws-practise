@@ -56,21 +56,22 @@
   
   ![](images/9.PNG)
   
-  ** Now Browse For private key **
+  **Now Browse For private key**
     We have Saved This File Earlier
     Goto your Folder where you saved you **.pem** file,
     And Hit **Open**
+    Without this file you **can't login** 
     
-    ![](images/10.PNG)
+   ![](images/10.PNG)
     
-    ** Now Hit **Ok**
+   ** Now Hit **Ok**
     
     
-    ![](images/11.PNG)
+   ![](images/11.PNG)
     
-    ## We Are Now Eastiblished The Connection Succesfully
+   ## We Are Now Eastiblished The Connection Succesfully
     
-    ![](images/12.PNG)
+   ![](images/12.PNG)
     
   
  
