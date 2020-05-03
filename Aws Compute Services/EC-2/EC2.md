@@ -149,7 +149,7 @@ It provides you with complete control of your computing resources and lets you r
  When our instance is in **stopped state** we only have to **pay for only HDD**,
  Because they have alloted this space to us they can't allot this space to any other user so we have to pay when our instance is **stopped**
  
-## In The Next Tutorial I will Teach You How To Access This instance on you machine 
+## In The Next Tutorial I will Teach You How To Access This instance on your machine 
  1. only one requirnment for Windows user install **MobaXterm**
  
 Link to download MobaXterm <https://mobaxterm.mobatek.net/download-home-edition.html>
