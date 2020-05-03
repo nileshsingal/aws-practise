@@ -1,4 +1,4 @@
-* In this tutorial we will create and execute python program on linux terminal
+## In this tutorial we will create and execute python program on linux terminal
 * open your terminal And Run `python` or `python --version`
 * If you have python installed you will get the version of python which is installed or availabe
 
@@ -24,7 +24,10 @@ The First Step is to make directory/Folder by hitting this command `mkdir python
 
 we created the directory, the `ls` command is used for **Listing Directory Contents**
 Now go in the directory We created `cd python`
+
+
 ![](images/4.PNG)
+
 
 * Vi is a screen editor for Linux, Unix and other Unix-like operating systems. 
 so the next command is `vi addtion.py`
