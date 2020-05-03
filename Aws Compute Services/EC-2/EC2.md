@@ -151,8 +151,9 @@ It provides you with complete control of your computing resources and lets you r
  
 ## In The Next Tutorial I will Teach You How To Access This instance on your machine 
  1. only one requirnment for Windows user install **MobaXterm**
+
  
-Link to download MobaXterm <https://mobaxterm.mobatek.net/download-home-edition.html>
+Link to download **MobaXterm** <https://mobaxterm.mobatek.net/download-home-edition.html>
  
  
   
