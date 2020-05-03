@@ -7,18 +7,18 @@
 
 * **if you still unable to install MobaXterm , Go through this Tutorial** <https://www.youtube.com/watch?v=E1rMooFomHM>
 
-1. ## This Is The Instance We Had Created
+## 1. This Is The Instance We Had Created
 **Our Instance is in stopped state**
 
  ![](images/1.PNG)
  
-2. ## To Change Status of instance
+## 2. To Change Status of instance
  Go to **Action**--> Then **Instance State** --> then **Start**
  
   ![](images/2.PNG)
   
   
- 3. ## Then Winnows Will Pop-up
+ ## 3. Then Winnows Will Pop-up
   
   Choose **Yes Start**
   
@@ -36,30 +36,30 @@
   
   ![](images/5.PNG)
   
-  4. ## Copy the Ipv4 public:IP 
+  ## 4. Copy the Ipv4 public:IP 
   
   ![](images/6.PNG)
   
-  5. ## Now Open Your MobaXterm 
+  ## 5. Now Open Your MobaXterm 
   goto **Session**
   
   ![](images/7.PNG)
   
-  6. ## Go to **SSH**
+   ## 6. Go to **SSH**
   In **Remote Host**: Paste The Ipv4 public:IP That we Copied earlier 
   Then check the Specify user 
   We have created the linux instance so our user name is  **ec2-user**
   
   ![](images/8.PNG)
   
-  7. ## Below you can see **the Advanced SSH Settings**
+  ## 7. Below you can see **the Advanced SSH Settings**
   **This is Most Important Step**
   **Check Use private key**
   
   
   ![](images/9.PNG)
   
-  8. **Now Browse For private key**
+ ## 8. Now Browse For private key
     We have Saved This File Earlier
     Goto your Folder where you saved you **.pem** file,
     And Hit **Open**
@@ -67,12 +67,12 @@
     
    ![](images/10.PNG)
     
-   ** Now Hit **Ok**
+   ** Now Hit Ok**
     
     
    ![](images/11.PNG)
     
-   ## We Are Now Eastiblished The Connection Succesfully
+   ## We Are Now Established The Connection Succesfully
     
    ![](images/12.PNG)
     
