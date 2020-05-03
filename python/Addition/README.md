@@ -39,11 +39,11 @@ so the next command is `vi addtion.py`
 
    ![](images/5.PNG)
 
-**vi** ---> is the screen editor for linux,
+   **vi** ---> is the screen editor for linux,
 
-**addtion** -----> File name or program name,
+   **addtion** -----> File name or program name,
 
-**.py** ------> extenstion for python .py , for java .java ......etc
+   **.py** ------> extenstion for python .py , for java .java ......etc
 
 * when you hit `vi addtion.py` this command the text editor will open
 
@@ -72,7 +72,7 @@ and then `:wq` to write and quit
    **addition.py** ---> **program file**
 
 
-  ![](images/10.PNG)
+   ![](images/10.PNG)
 
 
 * Now it will **execute** our program 
