@@ -17,13 +17,19 @@
 <https://www.youtube.com/results?search_query=how+to+install+python>
 
 The First Step is to make directory/Folder by hitting this command `mkdir python`
+
+
 ![](images/3.PNG)
+
+
 we created the directory, the `ls` command is used for **Listing Directory Contents**
 Now go in the directory We created `cd python`
 ![](images/4.PNG)
 
 * Vi is a screen editor for Linux, Unix and other Unix-like operating systems. 
 so the next command is `vi addtion.py`
+
+
 ![](images/5.PNG)
 
 vi ---> is the screen editor for linux
@@ -54,11 +60,14 @@ and then `:wq` to write and quit
 1. python---> directory name
 addition.py ---> program file
 
+
 ![](images/10.PNG)
+
 
 * Now it will execute our program 
 if our code is errorfree it will ask for inputs
 and give output
+
 
 ![](images/11.PNG)
 
