@@ -2,7 +2,10 @@
 ## **Now In This Tutorial We Will remote Login the created instance**
 
  **Hope you all have installed MobaXterm**
-**If not then download and install Here is the link :<https://mobaxterm.mobatek.net/download-home-edition.html>
+* **If not then download and install Here is the link :**<https://mobaxterm.mobatek.net/download-home-edition.html>
+
+
+* **if you still unable to install MobaXterm , Go through this Tutorial** <https://www.youtube.com/watch?v=E1rMooFomHM>
 
 ## This Is The Instance We Had Created
 **Our Instance is in stopped state**
