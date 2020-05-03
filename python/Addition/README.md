@@ -23,7 +23,7 @@ This is the command to install python on linux
 * The First Step is to make **directory/Folder** by hitting this command `mkdir python`
 
 
-  ![](images/3.PNG)
+   ![](images/3.PNG)
 
 
 * we created the directory, the `ls` command is used for **Listing Directory Contents**
@@ -37,12 +37,15 @@ Now go in the directory We created `cd python`
 so the next command is `vi addtion.py`
 
 
-  ![](images/5.PNG)
+   ![](images/5.PNG)
 
-vi ---> is the screen editor for linux
-addtion-----> File name or program name
-.py ------> extenstion for python .py , for java .java ......etc
-when you hit `vi addtion.py` this command the text editor will open
+**vi** ---> is the screen editor for linux,
+
+**addtion** -----> File name or program name,
+
+**.py** ------> extenstion for python .py , for java .java ......etc
+
+* when you hit `vi addtion.py` this command the text editor will open
 
 
   ![](images/6.PNG)
@@ -64,14 +67,15 @@ and then `:wq` to write and quit
 
 * Now we will execute our program by hitting 
 `python addition.py`
-1. python---> directory name
-addition.py ---> program file
+1. **python** ---> **directory name**
+
+   **addition.py** ---> **program file**
 
 
   ![](images/10.PNG)
 
 
-* Now it will execute our program 
+* Now it will **execute** our program 
 if our code is errorfree it will ask for inputs
 and give output
 
