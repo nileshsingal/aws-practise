@@ -11,10 +11,10 @@
 
 * If you dont have python installed 
 
-**For Linux** `sudo apt-get install python` 
+  **For Linux** `sudo apt-get install python` 
 This is the command to install python on linux 
 
-**For Windows/Mac... etc** Below is the link to download python
+  **For Windows/Mac... etc** Below is the link to download python
 <https://www.python.org/downloads/>
 
 * IF you are absolute begginer Below is the link on how to install python
