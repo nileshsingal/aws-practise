@@ -10,9 +10,13 @@
 ![](images/2.PNG)
 
 ** If you dont have python installed 
-**For Linux** `sudo apt-get install python` This is the command to install python
+
+**For Linux** `sudo apt-get install python` 
+This is the command to install python on linux 
+
 **For Windows/Mac... etc** Below is the link to download python
 <https://www.python.org/downloads/>
+
 ** IF you are absolute begginer Below is the link on how to install python
 <https://www.youtube.com/results?search_query=how+to+install+python>
 
