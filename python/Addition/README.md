@@ -9,7 +9,7 @@
 
   ![](images/2.PNG)
 
-** If you dont have python installed 
+* If you dont have python installed 
 
 **For Linux** `sudo apt-get install python` 
 This is the command to install python on linux 
