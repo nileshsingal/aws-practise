@@ -23,12 +23,12 @@
    ![](images/3.PNG)
    
    
-   ** It Will take some time as you can see in the image below that The instance State is **Pending**
+   * It Will take some time as you can see in the image below that The instance State is **Pending**
    
    
    ![](images/4.PNG)
 
-  ** Now our instance is in running state
+  * Now our instance is in running state
   
   
   ![](images/5.PNG)
