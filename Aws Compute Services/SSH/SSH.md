@@ -1,5 +1,5 @@
-# In The Previous Tutorial We have Created ec2 instance now,
-**In This Tutorial We Will remote Login the created instance**
+## In The Previous Tutorial We have Created ec2 instance ,
+## **Now In This Tutorial We Will remote Login the created instance**
 
  **Hope you all have installed MobaXterm**
 **If not then download and install Here is the link :<https://mobaxterm.mobatek.net/download-home-edition.html>
