@@ -130,6 +130,7 @@ iii. Now go to folder
    
    ![](images/16.png)
        
+       
    x. If we check the file one window will pop, it contains property ,**object link**
        if your bucket is public any one can access this storage with the help of object link
    
