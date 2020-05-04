@@ -1,0 +1,14 @@
+cd->change directory
+ls-> list
+pwd-> print working directory
+mkdir-> create directory
+vi 
+i->insert mode
+w->write mode
+q->quit
+wq->write and quit at the same time
+wql->forcibly write and quit
+cp[source][destination]-> copy file from one dir to another
+mv[source][destination]-> move file from one dir to another
+rm[file name/dir]-> delete file/dir
+history-> shows all previously used commands
