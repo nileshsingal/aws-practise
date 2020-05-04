@@ -2,19 +2,19 @@
 
      On Unix-like operating systems, the **cd** command ("change directory") changes the shell's current working directory. 
 
-`syntax: cd directory`
+     `syntax: cd directory`
 
 2. **ls**
 
      the ls command lists information about files and directories.
 
-`syntax: ls [option ...] [file]...`
+     `syntax: ls [option ...] [file]...`
 
 3. **pwd**
 
      The pwd tool prints the name of the present/current working directory (PWD - Present Working Directory).
 
-`syntax: pwd`
+     `syntax: pwd`
 
 4. **mkdir**:
 
