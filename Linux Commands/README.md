@@ -1,3 +1,5 @@
+## Basic Linux Commands
+
 1. **cd** 
 
      On Unix-like operating systems, the **cd** command ("change directory") changes the shell's current working directory. 
@@ -33,13 +35,17 @@
       wql->forcibly write and quit
       
 6. **cp**:
+
       cp[source][destination]-> copy file from one dir to another
 
 7. **mv**:
+
       mv[source][destination]-> move file from one dir to another
 
 8. **rm**:
+
       rm[file name/dir]-> delete file/dir
 
 9. **history**:
+
       history-> shows all previously used commands
