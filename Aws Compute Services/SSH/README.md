@@ -72,7 +72,7 @@
     
    ![](images/11.PNG)
     
-   ## We Are Now Established The Connection Succesfully
+   ## Connected to your Linux instance using an SSH 
     
    ![](images/12.PNG)
     
