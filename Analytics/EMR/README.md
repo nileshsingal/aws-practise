@@ -12,9 +12,9 @@
 
 ![](https://github.com/nileshsingal/BigData/blob/master/images/emr/3.png)
 
-**4. Software configuration as shown below.
+**4. Software configuration as shown below**.
 
-![](https://https://github.com/nileshsingal/BigData/blob/master/images/emr/4.png)
+![](https://github.com/nileshsingal/BigData/blob/master/images/emr/4.png)
 
 **5. Steps(optional) Leave it default.**
 
@@ -39,13 +39,15 @@
 
 ![](https://github.com/nileshsingal/BigData/blob/master/images/emr/9.png)
 
-**10. * Give cluster Name 
-      * Uncheck logging and termination protection
-      * Tags are optional**
+**10.  Give cluster Name **
+
+**Uncheck logging and termination protection**
+      
+**Tags are optional**
 
 ![](https://github.com/nileshsingal/BigData/blob/master/images/emr/10.png)
 
-**11. Security option: Select your Availabe Ec-2 key pair And Hit CREATE CLUSTER.
+**11. Security option: Select your Availabe Ec-2 key pair And Hit CREATE CLUSTER.**
 
 
 ![](https://github.com/nileshsingal/BigData/blob/master/images/emr/12.png)
