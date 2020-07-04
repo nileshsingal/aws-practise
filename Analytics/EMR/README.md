@@ -35,11 +35,11 @@
 
 ![](https://github.com/nileshsingal/BigData/blob/master/images/emr/8.png)
 
-**9. Cluster Scaling : Uncheck cluster scaling **
+**9. Cluster Scaling : Uncheck cluster scaling**
 
 ![](https://github.com/nileshsingal/BigData/blob/master/images/emr/9.png)
 
-**10.  Give cluster Name **
+**10.  Give cluster Name**
 
 **Uncheck logging and termination protection**
       
