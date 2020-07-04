@@ -5,3 +5,5 @@
 2.Click on RDS service.
 
 3.Choose Create database.
+
+![](/BigData/images/rds/1.PNG)
