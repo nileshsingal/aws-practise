@@ -58,6 +58,7 @@
 
 **13. When your cluster state changes to Waiting From Starting that means you're cluster is created successfully and you can ssh now**
 
+![](https://github.com/nileshsingal/BigData/blob/master/images/emr/13.png)
 
 
 
